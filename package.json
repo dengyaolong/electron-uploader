@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/dengyaolong/electron-uploader/issues"
   },
-  "homepage": "https://github.com/dengyaolong/electron-uploader#readme"
+  "homepage": "https://github.com/dengyaolong/electron-uploader#readme",
+  "dependencies": {
+    "klaw": "^2.1.1",
+    "stream-to-blob": "^1.0.0",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
 }
